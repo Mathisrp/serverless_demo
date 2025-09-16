@@ -1,8 +1,8 @@
 provider "aws" {
   region                      = "us-east-1"
-  access_key                  = "user"
-  secret_key                  = "user"
-  token                       = "11b590496379573df039f46f444011e1fa"
+  access_key                  = "test"
+  secret_key                  = "test"
+  token                       = ""
   skip_credentials_validation = true
   skip_metadata_api_check     = true
   skip_requesting_account_id  = true
